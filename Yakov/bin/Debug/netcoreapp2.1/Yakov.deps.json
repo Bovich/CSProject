@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "3c70b8e26175af7aab67d7a6b5b0967047383593"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Yakov/1.0.0": {
+        "dependencies": {
+          "VirusTotalNet": "2.0.0"
+        },
+        "runtime": {
+          "Yakov.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "VirusTotalNet/2.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/VirusTotalNet.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yakov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtweBXPWhp1CMQATtBT7ZfMZrbZBTKfjGwz6Y75NwGjx/GztDaUnfw8GK9KZ2T4fDIqKJyDjc9Rxlw5+G2FcVA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "VirusTotalNet/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WRGb7ORevmtk4Y5tVSzymWTw2OL+AI8er/oGRVRw55+OfAQYcihD5Kupyh0E7eWQlpwfasqp9hVnq1uE71HcQQ==",
+      "path": "virustotalnet/2.0.0",
+      "hashPath": "virustotalnet.2.0.0.nupkg.sha512"
+    }
+  }
+}

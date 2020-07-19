@@ -1,0 +1,11 @@
+C:\Users\lthef\Desktop\Yakov\bin\Debug\netcoreapp2.1\Yakov.deps.json
+C:\Users\lthef\Desktop\Yakov\bin\Debug\netcoreapp2.1\Yakov.runtimeconfig.json
+C:\Users\lthef\Desktop\Yakov\bin\Debug\netcoreapp2.1\Yakov.runtimeconfig.dev.json
+C:\Users\lthef\Desktop\Yakov\bin\Debug\netcoreapp2.1\Yakov.dll
+C:\Users\lthef\Desktop\Yakov\bin\Debug\netcoreapp2.1\Yakov.pdb
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.csprojAssemblyReference.cache
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.csproj.CoreCompileInputs.cache
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.AssemblyInfoInputs.cache
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.AssemblyInfo.cs
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.dll
+C:\Users\lthef\Desktop\Yakov\obj\Debug\netcoreapp2.1\Yakov.pdb
